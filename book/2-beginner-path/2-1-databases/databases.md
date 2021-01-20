@@ -356,7 +356,7 @@ Very often you may hear two modes in which databases are operating: OLTP and OLA
 
 <img src="img/fig-17.png" alt="OLTV vs OLAP"/>
 
-https://www.stitchdata.com/resources/oltp-vs-olap/#:~:text=OLTP%20and%20OLAP%3A%20The%20two,historical%20data%20from%20OLTP%20systems.
+[Read about OLTP vs OLAP](https://www.stitchdata.com/resources/oltp-vs-olap/#:~:text=OLTP%20and%20OLAP%3A%20The%20two,historical%20data%20from%20OLTP%20systems).
 
 OLTP mode works with fast transactional operations. Every transaction (no matter read, write or update) is happening very fast. The amount of data involved is also minimal, queries are usually pretty simple. Every operational DB should work in OLTP mode to ensure fast response time.
 
